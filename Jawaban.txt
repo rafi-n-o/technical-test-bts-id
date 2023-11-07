@@ -1,0 +1,5 @@
+Jawaban
+No.1 - unduh file repository ini, open directory + command, dan lakukan penginstalan dengan perintah npm install
+No.2 - file database-schema.png
+No.3 - Framework ExpressJS
+No.4 - implementasi security token dengan JWT diimplementasikan dengan membuat middlewares verifyToken, dan diselipkan pada tiap routes yang membutuhkan autentikasi
